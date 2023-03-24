@@ -38,7 +38,7 @@ https://10kswap.com/ üzerinde argent wallet ile swap işlemleri yapılabilir.
 
 **LAYERZERO**
 
-Binance üzerinden küçük bir miktar STG(Stargate Finance) token alınarak https://stargate.finance/stake/BNB üzerinde stake yapabilirsiniz.
+Binance üzerinden küçük bir miktar STG(Stargate Finance) token alarak https://stargate.finance/stake/BNB üzerinde stake yapabilirsiniz.
 
 https://snapshot.org/#/stgdao.eth sitesinden governance oylaması olduğu zaman oy kullanabilirsiniz.
 
