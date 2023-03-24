@@ -1,1 +1,1 @@
-# ZkSync-Starknet-Orbiter-Finance-olas-airdrop-islemleri
+# ZkSync Starknet Orbiter-Finance olasi airdrop islemleri
