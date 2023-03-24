@@ -1,1 +1,1 @@
-# ZkSync-Starknet-Orbiter-Finance-olas-airdrop-i-lemleri
+# ZkSync-Starknet-Orbiter-Finance-olas-airdrop-islemleri
