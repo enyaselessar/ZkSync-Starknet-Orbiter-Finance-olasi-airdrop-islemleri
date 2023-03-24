@@ -25,6 +25,8 @@ Ayrıca https://www.orbiter.finance/ üzerinden Zksync lite ağına bridge yapar
 
 https://starkgate.starknet.io/ sitesine metamask eth ana ağı ve argent wallet birlikte bağlanılıp, eth mainnetten starknet argent mainnet cüzdana eth transferi yapabilirsiniz.
 
+https://app.starknet.id/ üzerinden starknet domain satın alabilirsiniz
+
 https://mintsquare.io/mint sitesinde argent wallet ile starknet testnet ağında ücretsiz nft mint edin.
 
 https://mintsquare.io/mint sitesinde argent wallet ile starknet mainnet ağında ücretli nft mint edebilirsiniz.
